@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+package GrpcServer;
+
+message AddUserRequest{
+
+}
+
+message AddUserResponse{
+	string userName=1;
+	string passWord=2;
+}
+
+service TestEF
+{
+	rpc AddUsers (AddUserRequest) returns (AddUserResponse);
+}

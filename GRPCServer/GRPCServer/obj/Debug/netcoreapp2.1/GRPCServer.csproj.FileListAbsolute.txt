@@ -1,0 +1,11 @@
+E:\CoreProject\GRPCServer\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.deps.json
+E:\CoreProject\GRPCServer\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.runtimeconfig.json
+E:\CoreProject\GRPCServer\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.runtimeconfig.dev.json
+E:\CoreProject\GRPCServer\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.dll
+E:\CoreProject\GRPCServer\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.pdb
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.csproj.CoreCompileInputs.cache
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.AssemblyInfoInputs.cache
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.AssemblyInfo.cs
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.dll
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.pdb
+E:\CoreProject\GRPCServer\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.csprojAssemblyReference.cache
